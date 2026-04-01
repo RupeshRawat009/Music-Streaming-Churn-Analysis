@@ -21,7 +21,7 @@ Music streaming platforms face high user churn due to factors like buffering, pr
 
 ## 📊 Dashboard Preview
 
-![Churn Dashboard](https://github.com/RupeshRawat009/Music-Streaming-Churn-Analysis/blob/main/Churn%20Analysis%20Image.png)
+![Churn Dashboard](https://github.com/RupeshRawat009/Music-Streaming-Churn-Analysis/blob/main/Music_Streaming_Churn_Analysis.png)
 
 ---
 
